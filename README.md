@@ -14,4 +14,4 @@ The MSc thesis was produced as part of MSc Genomic Medicine, delivered by St Geo
 2. T-samples_script
 3. All-samples_script
 
-The scripts are to be run in this order. They are prefaced with instructions for batch running on the King's College London Rosalind research computing platform. 
+It is recommended that scripts are run in this order. They are prefaced with instructions for batch running on the King's College London Rosalind research computing platform. 
